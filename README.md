@@ -53,9 +53,13 @@ A weather forecasting app developed in **Flutter** and **Kotlin** with real-time
 
 An attendance app that allows students to mark attendance using **QR codes**. This app is designed to simplify the attendance process and improve accuracy in class participation tracking.
 
-### **[Student Schedule App](https://github.com/mohamed-hussien10/student_schedule_app)**
+### **[Simulation App](https://github.com/mohamed-hussien10/simulation_app)**
 
-A mobile app that helps students manage their schedules, track tasks, attendance, and grades, developed using **Flutter** and **Firebase**.
+A mobile app designed to simulate various scenarios and manage tasks efficiently, developed using **Flutter** and **Firebase**.
+
+### **[Nahdi App](https://github.com/mohamed-hussien10/nahdi_app)**
+
+A mobile app designed for selling medical products, developed using **Flutter** and **Firebase**. The app provides a user-friendly interface for browsing products, placing orders, and managing customer information efficiently.
 
 ---
 
