@@ -41,19 +41,19 @@ I specialize in creating **mobile applications** that solve real-world problems 
 
 ## 📂 Notable Projects
 
-### **[Shoes Shopping App](https://github.com/yourusername/shoes_shopping_app)**
+### **[Shoes Shopping App](https://github.com/mohamed-hussien10/shoes_shopping_app)**
 
 An e-commerce app built using **Kotlin** and **MVVM Architecture** that allows users to shop for shoes, manage their cart, and save their wishlist. Features include Firebase integration for authentication and database management.
 
-### **[Weather Forecasting App](https://github.com/yourusername/weather_forecasting_app)**
+### **[Weather Forecasting App](https://github.com/mohamed-hussien10/weather_forecasting_app)**
 
 A weather forecasting app developed in **Flutter** and **Kotlin** with real-time data from an API. The app supports both **light** and **dark modes** and offers features like temperature forecasts, weather conditions, and a dynamic user interface.
 
-### **[Attendance App](https://github.com/yourusername/attendance_app)**
+### **[Attendance App](https://github.com/mohamed-hussien10/attendance_app)**
 
 An attendance app that allows students to mark attendance using **QR codes**. This app is designed to simplify the attendance process and improve accuracy in class participation tracking.
 
-### **[Student Schedule App](https://github.com/yourusername/student_schedule_app)**
+### **[Student Schedule App](https://github.com/mohamed-hussien10/student_schedule_app)**
 
 A mobile app that helps students manage their schedules, track tasks, attendance, and grades, developed using **Flutter** and **Firebase**.
 
