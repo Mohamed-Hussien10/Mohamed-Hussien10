@@ -8,7 +8,7 @@ I am a passionate and dedicated **Mobile App Developer** with a focus on **Kotli
 ## 🧑‍💻 About Me
 
 - 🎓 **Studying**: Computer Science at **Minia University** (2022 - 2026)
-- 💼 **Current Role**: Freelance Mobile App Developer on **Fiverr** and **Mustaql**
+- 💼 **Current Role**: Freelance Mobile App Developer on **Upwork** and **Mustaql**
 - 🔧 **Technologies I Use**:  
   - Kotlin (Android Development)
   - Flutter (Cross-platform Mobile Development)
