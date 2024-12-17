@@ -55,7 +55,7 @@ An attendance app that allows students to mark attendance using **QR codes**. Th
 
 ### **[Simulation App](https://github.com/mohamed-hussien10/simulation_app)**
 
-A mobile app designed to simulate various scenarios and manage tasks efficiently, developed using **Flutter** and **Firebase**.
+A mobile app designed to simulate various scenarios and manage tasks efficiently, developed using **Flutter**.
 
 ### **[Nahdi App](https://github.com/mohamed-hussien10/nahdi_app)**
 
