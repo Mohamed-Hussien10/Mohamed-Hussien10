@@ -79,11 +79,10 @@ A mobile app that helps students manage their schedules, track tasks, attendance
 
 ## 📬 Get In Touch
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Mohamed Hussien](https://www.linkedin.com/in/your-linkedin)
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Fiverr**: [Mohamed Hussien](https://www.fiverr.com/yourusername)
-- **Mustaql**: [Mohamed Hussien](https://www.mustaql.com/yourusername)
+- **Email**: [Mohamedhu350@gmail.com](mailto:Mohamedhu350@gmail.com)
+- **LinkedIn**: [Mohamed Hussien](https://www.linkedin.com/in/mohamed-hussien7/)
+- **Upwork**: [Mohamed Hussien](https://www.upwork.com/freelancers/~014c4baa6b7603cf8a?mp_source=share)
+- **Khamsat**: [Mohamed Hussien](https://khamsat.com/user/mohamed_hussien3)
 
 ---
 
