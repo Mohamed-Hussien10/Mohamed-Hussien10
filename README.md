@@ -1,105 +1,72 @@
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=FFD700&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+My+GitHub+Profile!;I'm+Mohamed+Hussien!;🚀+Mobile+App+Developer+|+Tech+Enthusiast+🌟" alt="Typing SVG" />
+</div>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="80%" style="border-radius: 10px; margin: 20px 0;" />
+</div>
 
-# 👋 Hi, I'm Mohamed Hussien! 👨‍💻
 
-I am a passionate and dedicated **Mobile App Developer** with a focus on **Kotlin**, **Flutter**, and **Cross-platform Solutions**. I enjoy building high-quality apps with a focus on usability and user experience.
+## 👨‍💻 **About Me**
 
----
-
-## 🧑‍💻 About Me
-
-- 🎓 **Studying**: Computer Science at **Minia University** (2022 - 2026)
-- 💼 **Current Role**: Freelance Mobile App Developer on **Upwork** and **Mustaql**
-- 🔧 **Technologies I Use**:  
-  - Kotlin (Android Development)
-  - Flutter (Cross-platform Mobile Development)
-  - Dart
-  - Firebase (Realtime Database, Authentication, Cloud Storage)
-  - Git & GitHub (Version Control)
-  - Android Studio & VS Code
-- 🌍 **Languages**:  
-  - Arabic (Native)
-  - English (Intermediate)
+- 🔭 Currently working as a **Mobile Application Developer**, specializing in **Flutter**.
+- 🌱 Passionate about learning **cross-platform technologies** like **Flutter**, and advanced software architectures.
+- 💡 Exploring **AI/ML** integration with mobile apps for better user experiences.
+- 💻 All of my projects are available in **[My GitHub Repositories](https://github.com/Mohamed-Hussien10?tab=repositories)**.
+- ✨ Open to collaborating on **innovative projects** and **open-source contributions**.
 
 ---
 
-## 🚀 What I Do
-
-I specialize in creating **mobile applications** that solve real-world problems and provide seamless experiences. I have hands-on experience with various technologies, from building **weather forecasting apps** to **task management systems**. I'm always exploring new ways to enhance my skills in **Kotlin** and **Flutter** and enjoy experimenting with cutting-edge tools and techniques.
-
----
-
-## 🔧 Technologies & Tools
-
-- **Languages**: Kotlin, Dart, Java
-- **Frameworks**: Flutter, Android SDK
-- **Databases**: Firebase, SQLite
-- **Tools**: Android Studio, Visual Studio Code, Git, GitHub, Postman
-- **Cloud Services**: Firebase Authentication, Firebase Firestore, Firebase Storage
-- **Version Control**: Git, GitHub, Bitbucket
+## 🛠️ **Skills & Tools**
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,firebase,java" style="padding:5px;" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" style="padding:5px;" />
+</div>
 
 ---
 
-## 📂 Notable Projects
+## 📈 **GitHub Stats**
 
-### **[Shoes Shopping App](https://github.com/mohamed-hussien10/shoes_shopping_app)**
-
-An e-commerce app built using **Kotlin** and **MVVM Architecture** that allows users to shop for shoes, manage their cart, and save their wishlist. Features include Firebase integration for authentication and database management.
-
-### **[Weather Forecasting App](https://github.com/mohamed-hussien10/weather_forecasting_app)**
-
-A weather forecasting app developed in **Flutter** and **Kotlin** with real-time data from an API. The app supports both **light** and **dark modes** and offers features like temperature forecasts, weather conditions, and a dynamic user interface.
-
-### **[Attendance App](https://github.com/mohamed-hussien10/attendance_app)**
-
-An attendance app that allows students to mark attendance using **QR codes**. This app is designed to simplify the attendance process and improve accuracy in class participation tracking.
-
-### **[Simulation App](https://github.com/mohamed-hussien10/simulation_app)**
-
-A mobile app designed to simulate various scenarios and manage tasks efficiently, developed using **Flutter**.
-
-### **[Nahdi App](https://github.com/mohamed-hussien10/nahdi_app)**
-
-A mobile app designed for selling medical products, developed using **Flutter** and **Firebase**. The app provides a user-friendly interface for browsing products, placing orders, and managing customer information efficiently.
+<div align="center">
+    <a href="https://github.com/Mohamed-Hussien10/github-readme-stats">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hussien10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="45%" />
+    </a>
+    <a href="https://github.com/Mohamed-Hussien10/github-readme-stats">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hussien10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="45%" />
+    </a>
+</div>
+<div align="center">
+    <a href="https://github.com/Mohamed-Hussien10/github-readme-streak-stats">
+        <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Hussien10&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width="60%" />
+    </a>
+</div>
 
 ---
 
-## 💡 My Goals
-
-- Build more **cross-platform apps** to expand my knowledge in **Flutter**.
-- Contribute to **open-source projects**.
-- Learn **Machine Learning** and incorporate it into mobile app development.
-- Keep up with the latest trends in mobile app development, especially in **Kotlin** and **Flutter**.
-
----
-
-## 🌱 I'm Currently Learning
-
-- Advanced **Flutter** and **Dart**.
-- **Kotlin Multiplatform** for building cross-platform apps.
-- **Cloud** solutions, including serverless architectures.
-- **UI/UX** Design to improve the user experience of my apps.
+## 🌐 **Let's Connect**
+<div align="center">
+    <a href="https://www.linkedin.com/in/mohamed-hussien7/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:your-mohamedhu350@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100090023343147" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+</div>
 
 ---
 
-## 📬 Get In Touch
-
-- **Email**: [Mohamedhu350@gmail.com](mailto:Mohamedhu350@gmail.com)
-- **LinkedIn**: [mohamed-hussien7](https://www.linkedin.com/in/mohamed-hussien7/)
-- **Upwork**: [Mohamed Hussien](https://www.upwork.com/freelancers/~014c4baa6b7603cf8a?mp_source=share)
-- **Khamsat**: [mohamed_hussien3](https://khamsat.com/user/mohamed_hussien3)
-
----
-
-## ⭐ Support My Work
-
-If you find my projects useful or interesting, please give them a ⭐ on GitHub! Your support motivates me to keep improving and sharing my work. 🚀
+## 🎯 **Profile Visitors**
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Mohamed-Hussien10&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+    <a href="https://github.com/Mohamed-Hussien10?tab=followers">
+        <img src="https://img.shields.io/github/followers/Mohamed-Hussien10?style=social" alt="GitHub Followers" />
+    </a>
+</div>
 
 ---
 
-## 🎉 Fun Fact
-
-When I'm not coding, I enjoy **learning new technologies**, exploring **new cultures**, and **solving complex problems**.
-
----
-
-> "The best way to predict the future is to create it." – **Abraham Lincoln**
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&color=F7B42C&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thanks+for+Stopping+By!+❤️;Let’s+Create+Something+Amazing+Together!" />
+</h3>
