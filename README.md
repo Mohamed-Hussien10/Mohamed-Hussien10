@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=FFD700&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+My+GitHub+Profile!;I'm+Mohamed+Hussien!;🚀+Mobile+App+Developer+|+Tech+Enthusiast+🌟" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=FFD700&center=true&vCenter=true&width=1000&height=100&lines=👋+Welcome+to+My+GitHub+Profile!;I'm+Mohamed+Hussien!;🚀+Mobile+App+Developer+|+Tech+Enthusiast+🌟" alt="Typing SVG" />
 </div>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="80%" style="border-radius: 10px; margin: 20px 0;" />
